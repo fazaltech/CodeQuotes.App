@@ -50,6 +50,7 @@
 
 	<ItemGroup>
 	  <None Remove="Resources\Fonts\Bison.ttf" />
+	  <None Remove="Resources\Raw\quotes.txt" />
 	</ItemGroup>
 
 	<ItemGroup>
